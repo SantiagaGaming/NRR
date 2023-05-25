@@ -3,42 +3,7 @@ guid: bdb8303a983670246b87209f5506550d
 ModelImporter:
   serializedVersion: 20300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: b48cb39ae3974e84cb5a78788569d3f5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: phong1
-    second: {fileID: 2100000, guid: b48cb39ae3974e84cb5a78788569d3f5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: phong10
-    second: {fileID: 2100000, guid: 0e0c546658bf5994d9cad01455f74c45, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: phong11
-    second: {fileID: 2100000, guid: 0c69ff4991c2c74478a564121b0c39e8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: phong2
-    second: {fileID: 2100000, guid: e018a82826d5faf44890ea3bf4840d83, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: phong3
-    second: {fileID: 2100000, guid: b48cb39ae3974e84cb5a78788569d3f5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: phong4
-    second: {fileID: 2100000, guid: b3bb1d643b8ad48459ef1605be619852, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
